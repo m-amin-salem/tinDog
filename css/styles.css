@@ -42,7 +42,7 @@ p {
   color: #fff;
 }
 
-.section-white {
+.section-colored-white {
   background-color: #fff;
 }
 
@@ -110,6 +110,10 @@ p {
   z-index: 1;
 }
 
+#features .container-fluid {
+  padding-bottom: 5%;
+}
+
 .features-div {
   padding: 5%;
 }
@@ -149,7 +153,7 @@ p {
 }
 
 .pricing-col {
-  padding: 2% 3%;
+  padding: 3% 2%;
 }
 
 .card {
